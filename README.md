@@ -1,6 +1,6 @@
-#patikadev-practium-homework-1
+# patikadev-practium-homework-1
 
-###Gereksinimler
+### Gereksinimler
 
 - Bu fonksiyon "async" olarak tanımlanmalı ve default olarak dışa aktarılmalıdır. Fonksiyonun içindeki asenkron fonksiyonlar "await" ile tanımlanmalıdır.
 
